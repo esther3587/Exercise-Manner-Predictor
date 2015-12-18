@@ -1,1 +1,1 @@
-# practical_ML_project
+I create another PDF file for easy viewing if you don't want to deal with HTML file. :)
